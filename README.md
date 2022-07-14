@@ -1,2 +1,4 @@
 # projectsmp
-Basically PSMP but Remade
+*Basically PSMP*
+
+_script is upcoming_
